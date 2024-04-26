@@ -6,3 +6,5 @@ Este projeto de iniciação científica tem como objetivo explorar e analisar da
 ## Requisitos
 - Python 3.x
 - Bibliotecas: Pandas, NumPy, Matplotlib, Scikit-learn, Statsmodels, Plotly, Scipy
+
+link para base de dados: https://www.kaggle.com/datasets/kalilurrahman/mastercard-stock-data-latest-and-updated
